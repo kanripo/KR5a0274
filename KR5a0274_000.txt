@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:44:11.649084
+#+TITLE: 修真十書黃庭內景玉經注
+#+PROPERTY: DZID  DZ0263k
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—844 三卷 洞真部方法類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
